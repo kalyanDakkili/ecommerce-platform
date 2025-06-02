@@ -7,7 +7,7 @@ const Hero: React.FC = () => {
   return (
     <section className="relative h-[70vh] min-h-[500px] overflow-hidden">
       {/* Background image */}
-      <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: 'url(https://images.pexels.com/photos/5632397/pexels-photo-5632397.jpeg)' }}>
+      <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: 'url(https://t3.ftcdn.net/jpg/12/38/56/00/360_F_1238560004_TfLIYWuUXR5IJDvqTb8lQ9L1fD5MCJVt.jpg)' }}>
         <div className="absolute inset-0 bg-black bg-opacity-30"></div>
       </div>
       
